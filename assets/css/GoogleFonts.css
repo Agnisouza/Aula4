@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&family=Kenia&family=Noto+Sans+Linear+B&family=Oswald&display=swap');
+*{
+font-family: 'Croissant One', cursive;
+}
+h1{
+    color: blue;
+    text-shadow: 10px 10px 5px rgb(185, 212, 26);
+}
